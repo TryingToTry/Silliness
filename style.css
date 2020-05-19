@@ -1,0 +1,12 @@
+
+
+h1{
+	color:orange;
+}
+div.section-label.reveal > p{
+	color: blue;
+}
+
+div.col-xs-12.col-md-4 > p{
+	text-align: : center;
+}
